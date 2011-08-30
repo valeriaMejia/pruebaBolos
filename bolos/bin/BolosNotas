@@ -1,0 +1,7 @@
+1) Al inicio del juego el score debe ser cero
+2) al lanzar el un tiro el score debe ser mayor o igual a cero
+3) Debe permitir un maximo de 10 jugadas
+4) Si la suma de los tiros de una jugada es 10 entonces recive bonificacion del primer lanzamiento de la siguiente jugada
+5) si es un strike recibe bonificacion de los 2 lanzamientos de la siguiente jugada
+6) Si la ultims jugsda es spare se adiciona un lanzamiento
+7) si el ultimo juego es strike se adiciona una jugada
